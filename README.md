@@ -19,6 +19,7 @@ Dr. Mehta says we do not need run times, but they might still be helpful to have
 3. Other weird math things this problem could be related to: the fibonacci sequence is an example of an input who's length n is nearly equal to the total number of additions (n + 1).
 4. On a foundational level, this is what this problem seems very similar to: https://en.wikipedia.org/wiki/Partition_(number_theory)
 5. It also seems rather similar to the minimum change problem in computer science.
+6. Posted on Piazza and it looks like Dr. Mehta is recommending against a dynamic programming approach.
 
 ## Input Description
 1. Size: 5, Max: 25
