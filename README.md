@@ -17,6 +17,7 @@ Dr. Mehta says we do not need run times, but they might still be helpful to have
 1. We might be able to use an exhaustive approach on small inputs and a non-exhaustive on large ones. I am assuming most groups will contribute relatively massive inputs to do some damage to competition. However, we could submit a relatively simple one with n=25 and run an exhaustive to assure our success for that input.
 2. Just as a note, the largest 32-bit integer is less than 10^9, so if any groups program with ints they will hit an overflow.
 3. Other weird math things this problem could be related to: the fibonacci sequence is an example of an input who's length n is nearly equal to the total number of additions (n + 1).
+    What about something with 2^x?
 4. On a foundational level, this is what this problem seems very similar to: https://en.wikipedia.org/wiki/Partition_(number_theory)
 5. It also seems rather similar to the minimum change problem in computer science.
 6. Posted on Piazza and it looks like Dr. Mehta is recommending against a dynamic programming approach.
